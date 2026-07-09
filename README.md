@@ -102,21 +102,6 @@ The notebook includes:
 
 ---
 
-## Installation
-
-Clone the repository
-
-```bash
-git clone https://github.com/abdelrahmankhalaf139-star/Anxiety-Data-Analysis.git
-```
-
-Navigate into the project directory
-
-```bash
-cd Anxiety-Data-Analysis
-```
----
-
 ## Results
 
 The implemented models demonstrate different approaches to predicting anxiety levels and classifying anxiety categories. Performance is evaluated using standard regression and classification metrics to compare model effectiveness.
